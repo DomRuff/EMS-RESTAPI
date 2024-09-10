@@ -1,4 +1,4 @@
-# EMS-RESTAPI
+# EMS - REST API
 
 The **EMS-RESTAPI** is a REST API built using Spring Boot, backed by a PostgreSQL database. It provides CRUD (Create, Read, Update, Delete) functionality for managing employees. The API is structured with models, services, repositories, and controllers to ensure separation of concerns and scalability.
 
