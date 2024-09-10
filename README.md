@@ -54,7 +54,6 @@ public enum EmployeeRole {
 
 The Spring Data JPA's *JpaRepository* interface is leveraged to perform database operations on the entities. This is the employee repository:
 - **EmployeeRepository**
-- 
 ---
 
 ## Services
